@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.icon-left {
+  position: absolute;
+  top: -1px;
+  left: 1px;
+}
+.icon-right {
+  position: absolute;
+  top: -1px;
+  right: 1px;
+}
+.season-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.winter {
+  background-color: orange;
+}
+.summer {
+  background-color: aliceblue;
+}
